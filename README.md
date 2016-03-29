@@ -1,2 +1,4 @@
 # myProjects
-all the projects that i built while learning to code
+Collection of all my projects
+
+HackerEarth Profile: https://www.hackerearth.com/@ankur181
